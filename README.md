@@ -52,13 +52,6 @@ The Online Quiz Application is a Java-based platform that allows users to take q
 - Random question selection.
 - Difficulty levels for quizzes.
 
-## Installation
-
-### Prerequisites
-- Java Development Kit (JDK) 8 or later
-- [MySQL/SQLite] Database
-- [JavaFX/Swing/other UI framework] libraries
-
 ## Usage
 - Create an account or log in with existing credentials.
 - Select a quiz from the available topics.
